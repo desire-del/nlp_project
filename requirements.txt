@@ -1,6 +1,5 @@
 notebook
 tensorflow
-keras_nlp
 numpy
 pandas
 matplotlib
